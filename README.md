@@ -17,7 +17,7 @@ Projeto desenvolvido como prática do curso da Alura.
 - `def` é usado para criar funções.  
 - Listas são criadas com colchetes `[]`, ex: `lista = [1, 2, 3]`.  
 - A escolha entre `for` e `while` depende do problema que você quer resolver.  
-- Dicionários = `[{}, {}, {}].`
+- Dicionários = `[{}, {}, {}]`.
 - `.append()` adiciona itens em uma lista.  
 - `.ljust(n)` alinha o texto, preenchendo até o tamanho `n`.  
 - `os.system('cls')` limpa a tela do terminal no Windows.  
