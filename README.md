@@ -1,4 +1,4 @@
-# Sabor EXpress
+# Sabor Express
 
 Sistema simples para gerenciamento de restaurantes feito em Python.  
 Projeto desenvolvido como prática do curso da Alura.
